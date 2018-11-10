@@ -1,5 +1,4 @@
-Machine Learning Implementation From Scartch
+Machine Learning Implementation From Scratch
 ====
-
-1. Language: Python
-2. Reference: Lazy Programmer Inc.
+1. Reference: Lazy Programmer Inc.
+- 단, Hierarchical Clustering은 사용
